@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --noconsole --onefile -i HPV_ico.ico --add-data "botV4.exe;." --add-data "HPV-Safegram-Builder.exe;." --name VZLOM clay.py
