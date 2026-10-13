@@ -11,7 +11,7 @@
 Дисклеймер:<br>
 Весь код сгенерирован ChatGPT в ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ и служит примером того что нельзя просто так запускать exe файлы<br>
 все риски и ответственность за неправомерное использование знаний Вы берёте на себя.<br>
-if not difficult, share bitcoin 0.00051 to wallet 3AAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx <br>
+if not difficult, share any GRAM to wallet UQCsHgrwYOgxlMK3dppgQo2QQDMCJeGmKsxgNdCft6hkdfmt <br>
 /////////////////////////////////////////////////////////////////////////////////////<br>
 How to screw a friend...<br>
 Three simple steps:<br>
